@@ -171,7 +171,7 @@ button a:hover, button a:focus{
 
 
 #connectus button:hover{
-	background-color: #ff6666;
+	background-color:#29ca8e ;
 }
  #social-media ul li a{
 	color:white;
@@ -198,7 +198,7 @@ button a:hover, button a:focus{
 
 
 #testimonials p{
-	color:black;
+	color:white;
 	font-style: italic;
 	font-weight: bold;
 	text-transform: capitalize;
@@ -206,7 +206,7 @@ button a:hover, button a:focus{
 
 }
 .vishnu{
-	background: url(campus2.jpg);
+	background-color: #333;
 	margin-top: 15px;
 }
 
