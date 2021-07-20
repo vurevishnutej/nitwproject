@@ -177,14 +177,13 @@ button a:hover, button a:focus{
 	color:white;
 }
 #social-media ul li{
-	background-color: black;
+	
 	padding: 12px 16px;
-	display: inline-block;
 	
 }
 
 #social-media ul li:hover{
-	background-color: #ff6666;
+	background-color: #29ca8e;
 }
 #social-media h3{
 
